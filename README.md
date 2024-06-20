@@ -1,3 +1,3 @@
 # Custom Media Player
 
-**You can add or remove button**
+**You can Add or Remove Button**
